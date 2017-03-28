@@ -1,0 +1,35 @@
+laravel 入门指引：
+------------------
+前言：整理laravel 入门教程，为您尽快掌握laravel 从入门到掌握提供资料上的支持。
+
+------------------
+
+1  laravel 中文网：
+说明：上有较为丰富的中文文档，不同版本的laravel介绍较为全面，也可在社区中进行问答交流。
+网址：http://www.golaravel.com/
+
+-------------------
+
+2 laravel 学院 ：
+说明：提供了丰富的laravel 资料，最新版的laravel5.4也有对应的中文文档，值得称赞，另外，其中的文章可以按照标签进行检索，对于入门的学习者很有帮助；不同的laravel模块操作也进行了分模块的讲解，引导作用很强，例如 5.4文档含有文章目录http://laravelacademy.org/docs/laravel-5_4 。
+
+网址：http://laravelacademy.org/ 
+
+---------------------
+
+3 laravel 教学视频推荐
+推荐到慕课网上了解相关教程，其中三套非常不错的入门到深入的教程值得向初学者推荐，从入门到深入，逐步推进，体系很不错。
+轻松学会Laravel-基础篇   http://www.imooc.com/learn/697
+轻松学会Laravel-表单篇   http://www.imooc.com/learn/699
+轻松学会Laravel-高级篇   http://www.imooc.com/learn/702  
+
+
+---------------------
+以上为关于larva入门的相关指引，希望对入门laravel的coder有所帮助。
+
+Even @China
+update：2017-03-28 21:00
+
+contect me with email： evencoder@126.com
+
+========== END ============
